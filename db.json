@@ -1,28 +1,30 @@
 {
     "bg": "https://i.pinimg.com/originals/0d/16/e6/0d16e65475f9687c7f4908c2d250b74b.jpg",
-    "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "title": " Viva a Vida é uma festa! - Quiz",
+    "description": "Teste os seus conhecimentos sobre o melhor filme da Pixar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://media.giphy.com/media/JO9OHy8sU3qRL7TJyI/giphy.gif",
+        "title": "Qual é o nome do cachorro?",
+        "description": "Bem fácil",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Spike",
+          "Cachorro",
+          "Dante",
+          "Miguelito"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
-        "answer": 0,
+        "image": "https://media.giphy.com/media/MCL6prm5SIeuFb91xZ/giphy.gif",
+        "title": "Qual o nome da avó do Miguel?",
+        "description": "Moleza também ;-)",
+        "answer": 1,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+          "Maria",
+          "Inês",
+          "Talia",
+          "Dulce"
         ]
       }
     ],
