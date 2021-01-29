@@ -39,7 +39,9 @@ export default function App({ Component, pageProps }) {
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@_Alonssy" />
         <meta name="twitter:creator" content="@_Alonssy" />
+        <meta property="og:title" content="Quiz" />
         <meta property="og:image" content={'/screen.png'} />
+        <meta property="og:description" content="Alura Quiz - Imersao React" />
         <meta property="og:url" content="https://vercel.com/carmenlopes/cocomovie-quiz" />
 
       </Head>
